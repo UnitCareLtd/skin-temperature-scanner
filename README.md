@@ -1,5 +1,7 @@
 # Skin Temperature Scanner
 
+Thermal camera device to measure human skin temperature.
+
 ## Abstract
 
 This project aims to estimate the human body temperature with a
